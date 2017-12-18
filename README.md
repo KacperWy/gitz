@@ -1,2 +1,3 @@
 # gitz
-szkolenie bardzo
+szkolenie bardzo + + + + + 
+
